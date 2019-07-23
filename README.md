@@ -1,5 +1,5 @@
 # Smart-Speaker
-Smart speaker can take the interview of candi- date and take course like IELTS.
+Smart speaker can take the interview of candidate and take course like IELTS.
 
 ---
 
